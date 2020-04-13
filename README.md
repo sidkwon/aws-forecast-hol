@@ -44,11 +44,14 @@ Amazon SageMaker Service 화면에서 좌측 "Notebook instances"를 클릭한 �
 ![sagemaker-02](./img/sagemaker-01.png)
 
 ### Open JupyterLab Notebooks
-JupyterLab에 로그인 한 후 좌측 상단 탐색기 버튼을 클릭하면 Hands-on에 사용할 JupyterLab Notebook을 확인할 수 있다.
+JupyterLab에 로그인 한 후 좌측 상단 탐색기 버튼을 클릭하면 Hands-on에 사용할 JupyterLab Notebook을 확인할 수 있다. `notebook`  폴더를 더블릭한다.
 ![jupyter-01](./img/jupyter-01.png)
 
 - 1a.EDA-Introduction.ipynb : 기본적인 EBA
 - 1b.EDA-TargetGroup.ipynb : `FOODS_3` Category에 대한 EDA
 - 2.AmazonForecast.ipynb : Amazon Forecast 실습
 
+1a.EDA-Introduction.ipynb를 더블클릭하여 실습을 시작한다.
+
+kernel은 `conda-tensorflow-python36`을 선택한다.
 
