@@ -1,4 +1,4 @@
-# aws-samples-forecast
+# Amazon Forecast Hands-on Lab
 
 ## Overview
 Walmart 일일 판매량을 Amazon Forecast서비스로 예측한다.
