@@ -1,0 +1,5 @@
+notebooks/.ipynb_checkpoints/*
+notebooks/__MACOSX/*
+notebooks/data/*
+.ipynb_checkpoints/*
+notebooks/train/*
