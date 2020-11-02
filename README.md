@@ -37,7 +37,7 @@ Deploy to AWS N.Virginia Region
 </table>
 
 ### CloudFormation Stack 생성
-![cloudformation-01](./img/cloudformation-01.png)
+![cloudformation-01](./img/cloudformation.png)
 
 - Stack name : `ForecastDemoLab` (변경 가능)
 - myInitial : `your-initial` (개인 식별자로 변경, SageMaker notebook instance의 이름은 sagemaker-hol-lab-`myInitial`로 생성 됨)
@@ -51,7 +51,7 @@ AWS Management Console에서 "Find Services" > "Sagemaker"를 입력한 후 "Ama
 ![sagemaker-01](./img/sagemaker-01.png)
 
 Amazon SageMaker Service 화면에서 좌측 "Notebook instances"를 클릭한 후 "Forecast"로 시작하는 Notebook을 선택한 후 "Open JupyterLab"을 클릭한다.
-![sagemaker-02](./img/sagemaker-01.png)
+![sagemaker-02](./img/sagemaker-02.png)
 
 ### Open JupyterLab Notebooks
 JupyterLab에 로그인 한 후 좌측 상단 탐색기 버튼을 클릭하면 Hands-on에 사용할 JupyterLab Notebook을 확인할 수 있다. `notebook`  폴더를 더블릭한다.
